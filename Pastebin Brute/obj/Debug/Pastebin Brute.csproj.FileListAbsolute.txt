@@ -1,0 +1,7 @@
+C:\Users\Elev\source\repos\Pastebin Brute\Pastebin Brute\bin\Debug\Pastebin Brute.exe.config
+C:\Users\Elev\source\repos\Pastebin Brute\Pastebin Brute\bin\Debug\Pastebin Brute.exe
+C:\Users\Elev\source\repos\Pastebin Brute\Pastebin Brute\bin\Debug\Pastebin Brute.pdb
+C:\Users\Elev\source\repos\Pastebin Brute\Pastebin Brute\obj\Debug\Pastebin Brute.csprojAssemblyReference.cache
+C:\Users\Elev\source\repos\Pastebin Brute\Pastebin Brute\obj\Debug\Pastebin Brute.csproj.CoreCompileInputs.cache
+C:\Users\Elev\source\repos\Pastebin Brute\Pastebin Brute\obj\Debug\Pastebin Brute.exe
+C:\Users\Elev\source\repos\Pastebin Brute\Pastebin Brute\obj\Debug\Pastebin Brute.pdb
