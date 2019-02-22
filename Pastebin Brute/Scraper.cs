@@ -31,7 +31,6 @@ namespace Pastebin_Brute
                         request.UserAgent = "Mozilla/4.0 (compatible; MSIE 6.0; Windows CE)";
 
                         request.Proxy = prox;
-                        Console.WriteLine(id);
                         request.BeginGetResponse(WebCallback, request);
                     }
                 }
